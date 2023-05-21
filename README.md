@@ -1,7 +1,7 @@
 ## React, Part I
 
-* [Animal Fun Facts](https://datttrian-animal-fun-facts.netlify.app/)
-* Authorization Form
+* [Animal Fun Facts](https://fed-js-react-animal-fun-facts.netlify.app)
+* [Authorization Form](https://fed-authorization-form.netlify.app)
 
 ## React, Part II
 
