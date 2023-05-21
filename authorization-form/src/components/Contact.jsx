@@ -21,6 +21,7 @@ export const Contact = () => {
       </form>
     </>
   )
+
   const contactInfo = (
     <>
       <h1>Contact</h1>
