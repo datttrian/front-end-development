@@ -6,7 +6,7 @@
 ## React, Part II
 
 * [CodeyOverflow Forum](https://fed-codey-overflow-forum.netlify.app)
-* Video Player
+* [Video Player](https://fed-video-player.netlify.app)
 * Create a Playlist App With the Spotify API
 * Passing Thoughts
 * Styling Rock, Paper, Scissors
