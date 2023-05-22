@@ -1,13 +1,13 @@
 ## React, Part I
 
-* [Animal Fun Facts](https://fed-js-react-animal-fun-facts.netlify.app)
-* [Authorization Form](https://fed-authorization-form.netlify.app)
+* [Animal Fun Facts](https://fed-js-react-animal-fun-facts.netlify.app/)
+* [Authorization Form](https://fed-authorization-form.netlify.app/)
 
 ## React, Part II
 
-* [CodeyOverflow Forum](https://fed-codey-overflow-forum.netlify.app)
-* [Video Player](https://fed-video-player.netlify.app)
-* Create a Playlist App With the Spotify API
+* [CodeyOverflow Forum](https://fed-codey-overflow-forum.netlify.app/)
+* [Video Player](https://fed-video-player.netlify.app/)
+* [Create a Playlist App With the Spotify API](https://jammming-react18.netlify.app/)
 * Passing Thoughts
 * Styling Rock, Paper, Scissors
 * Saucy Tango Food Order Form
