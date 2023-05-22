@@ -1,7 +1,7 @@
 import React from 'react';
 import { Contact } from './components/Contact'
 
-function App() {
+const App = () => {
   return <Contact />
 }
 

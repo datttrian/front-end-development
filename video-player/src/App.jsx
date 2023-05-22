@@ -3,7 +3,7 @@ import { Menu } from './components/Menu';
 import { Video } from './components/Video';
 import { VIDEOS } from './data/videos';
 
-function App() {
+const App = () => {
   const [src, setSrc] = useState(VIDEOS.fast);
 
   const onSelectVideoHandler = (newVideo) => {

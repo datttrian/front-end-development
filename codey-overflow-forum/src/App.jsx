@@ -2,7 +2,7 @@ import React from 'react';
 import { comments } from './data/commentData';
 import { Card } from './components/Card'
 
-function App() {
+const App = () => {
   return (
     <>
       {

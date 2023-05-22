@@ -8,7 +8,7 @@
 * [CodeyOverflow Forum](https://fed-codey-overflow-forum.netlify.app/)
 * [Video Player](https://fed-video-player.netlify.app/)
 * [Create a Playlist App With the Spotify API](https://jammming-react18.netlify.app/)
-* Passing Thoughts
+* [Passing Thoughts](https://fed-react-hooks-passing-thoughts.netlify.app/)
 * Styling Rock, Paper, Scissors
 * Saucy Tango Food Order Form
 * Adopt a Pet!

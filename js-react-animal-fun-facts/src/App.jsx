@@ -5,7 +5,7 @@ import { Title } from './components/Title';
 
 const showBackground = true;
 
-function App() {
+const App = () => {
   return (
     <>
       <Title />
