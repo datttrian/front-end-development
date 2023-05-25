@@ -11,7 +11,7 @@
 * [Passing Thoughts](https://fed-react-hooks-passing-thoughts.netlify.app/)
 * Styling Rock, Paper, Scissors
 * Saucy Tango Food Order Form
-* Adopt a Pet!
+* [Adopt a Pet!](https://fed-adopt-a-pet-react-router-v6.netlify.app/)
 * Challenge Project: Appointment Planner
 * Random Color Picker
 * Social Network for Pets
