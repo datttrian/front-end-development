@@ -6,6 +6,8 @@
 ## React, Part II
 
 * [CodeyOverflow Forum](https://fed-codey-overflow-forum.netlify.app/)
+* [Random Color Picker](https://fed-random-color.netlify.app)
+* [Social Network for Pets](https://fed-social-network-for-pets.netlify.app/)
 * [Video Player](https://fed-video-player.netlify.app/)
 * Ravenous
 * [Create a Playlist App With the Spotify API](https://jammming-react18.netlify.app/)
@@ -14,12 +16,9 @@
 * Saucy Tango Food Order Form
 * [Adopt a Pet!](https://fed-adopt-a-pet-react-router-v6.netlify.app/)
 * [Challenge Project: Appointment Planner](https://fed-appointment-planner.netlify.app)
-* [Random Color Picker](https://fed-random-color.netlify.app)
-* [Social Network for Pets](https://fed-social-network-for-pets.netlify.app/)
 
 ## Redux
 
-* Redux Road
 * Codecademy Store
 * Matching Memory
 * Expense Tracker
