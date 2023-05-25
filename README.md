@@ -12,7 +12,7 @@
 * Styling Rock, Paper, Scissors
 * Saucy Tango Food Order Form
 * [Adopt a Pet!](https://fed-adopt-a-pet-react-router-v6.netlify.app/)
-* Challenge Project: Appointment Planner
+* [Challenge Project: Appointment Planner](https://fed-appointment-planner-solution-v18.netlify.app)
 * Random Color Picker
 * Social Network for Pets
 * Copycat
