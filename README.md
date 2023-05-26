@@ -15,11 +15,11 @@
 * Styling Rock, Paper, Scissors
 * Saucy Tango Food Order Form
 * [Adopt a Pet!](https://fed-adopt-a-pet-react-router-v6.netlify.app/)
-* [Challenge Project: Appointment Planner](https://fed-appointment-planner.netlify.app)
+* [Challenge Project: Appointment Planner](https://fed-appointment-planner.netlify.app/)
 
 ## Redux
 
-* Codecademy Store
+* [Codecademy Store](https://fed-codecademy-store.netlify.app/)
 * Matching Memory
 * Expense Tracker
 * Redux News Reader
