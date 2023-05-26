@@ -27,6 +27,4 @@
 
 ## Portfolio Project: Reddit Client
 
-* Reddit Client
-
-## Advanced Web Development
+* [Reddit Client](https://fed-reddit-client.netlify.app/)
