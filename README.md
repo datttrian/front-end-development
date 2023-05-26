@@ -20,7 +20,7 @@
 ## Redux
 
 * [Codecademy Store](https://fed-codecademy-store.netlify.app/)
-* Matching Memory
+* [Matching Memory](https://fed-matching-memory-react-redux.netlify.app/)
 * Expense Tracker
 * Redux News Reader
 * Challenge Project: Flashcards
